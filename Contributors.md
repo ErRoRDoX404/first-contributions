@@ -6799,4 +6799,5 @@ Aadi Deshmukh
 - [Xander Clemens](https://github.com/XanderRubio)
 - [Candy](https://github.com/candiii)
 - [Joanna](https://github.com/jgmbl)
+- [ErRoRDoX404](https://github.com/ErRoRDoX404)
 - [YuKyungKim](https://github.com/KimYuKyung16)
