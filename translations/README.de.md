@@ -8,7 +8,7 @@
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="Repository forken" />
 
-Aller Anfang ist schwer. Gerade dann, wenn wir gemeinsam an etwas arbeiten, will niemand etwas Falsches tun. Aber Open Source dreht sich um Kooperation und lebt von den Beiträgen vieler Freiwilliger. Deshalb haben wir es uns zur Aufgabe gemacht, neuen Mitgliedern in der Open-Source-Gemeinde ihre ersten Schritte so einfach wie möglich zu machen. 
+Aller Anfang ist schwer. Gerade dann, wenn wir gemeinsam an etwas arbeiten, will niemand etwas Falsches tun. Aber Open-Source dreht sich um Kooperation und lebt von den Beiträgen vieler Freiwilliger. Deshalb haben wir es uns zur Aufgabe gemacht, neuen Mitgliedern in der Open-Source-Gemeinde ihre ersten Schritte so einfach wie möglich zu machen. 
 
 Natürlich helfen die vorhandenen Artikel und Videoanleitungen. Aber was kann besser sein, als es einfach einmal auszuprobieren mit dem Wissen, dass man nichts kaputt machen kann? Dieses Projekt will Anfängern zeigen, wie sie möglichst einfach ihren ersten Beitrag leisten. Bedenke: Je entspannter du bist, desto besser lernst du. Wenn du deinen ersten Beitrag leisten möchtest, folge diesen einfachen Schritten. Wir versprechen dir, es wird Spaß machen.
 
@@ -25,7 +25,7 @@ Forke das Repository durch das Anklicken der Schaltfläche "Fork". Dadurch erhä
 
 Klone das Repository auf deinen Computer. Klicke auf die Schaltfläche "Clone or download" und anschließend auf das "copy to clipboard"-Symbol.
 
-Öffne eine Kommandozeile und gib das folgende git-Kommando ein:
+Öffne eine Kommandozeile und gib das folgende git-Befehle ein:
 
 ```
 git clone "Deine kopierte URL"
@@ -38,7 +38,7 @@ Beispiel:
 ```
 git clone https://github.com/dein-Name/first-contributions.git
 ```
-An der Stelle 'dein-Name' muss dein GitHub-Username stehen. Mit diesem Befehl kopierst du den Inhalt deines first-contributions-Repository von GitHub auf deinen Computer.
+An der Stelle 'dein-Name' muss dein GitHub-Benutzername stehen. Mit diesem Befehl kopierst du den Inhalt deines first-contributions-Repository von GitHub auf deinen Computer.
 
 ## Erstelle einen Branch
 
@@ -61,7 +61,7 @@ git checkout -b add-max-mustermann
 
 ## Mache die nötigen Änderungen und committe sie
 
-Öffne `Contributors.md` in einem Text-Editor und füge deine Namen hinzu. Beachte, dass du den Namen nicht am Anfang oder am Ende der Datei hinzufügst. Speichere die Datei anschließend.
+Öffne `Contributors.md` in einem Text-Editor und füge deinen Namen hinzu. Beachte, dass du den Namen nicht am Anfang oder am Ende der Datei hinzufügst. Speichere die Datei anschließend.
 
 Gibst du in der Kommandozeile nun `git status` ein, siehst du die Änderungen. 
 
